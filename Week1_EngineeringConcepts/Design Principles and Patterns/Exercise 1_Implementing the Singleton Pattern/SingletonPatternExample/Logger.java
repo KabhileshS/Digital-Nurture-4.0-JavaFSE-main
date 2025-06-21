@@ -1,4 +1,3 @@
-package singletonpatternexample;
 
 public class Logger {
     private static Logger instance;
